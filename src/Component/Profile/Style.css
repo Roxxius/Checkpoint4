@@ -1,0 +1,15 @@
+h1{
+    flex:content;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.im2{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  
+}
